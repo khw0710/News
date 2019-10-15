@@ -1,6 +1,6 @@
 # Simple PWA example 
 
-Online demo can be found on https://marcushellberg.github.io/alternative-news
+This is now a test from howai
 
 ## Running locally
 
